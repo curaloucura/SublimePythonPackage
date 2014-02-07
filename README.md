@@ -1,4 +1,4 @@
-Sublime Create Python Package (New)
+Sublime Python Create Package (New)
 ========================
 
 Plugin to Sublime Text 2.
