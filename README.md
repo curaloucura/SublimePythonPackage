@@ -19,7 +19,8 @@ Whenever you need to create a new module, just right click on the base folder an
 Installation
 ================
 
-Copy the contents to your Sublime Packages folder
+Using Sublime Package Manager, install the Python Create Package
+Or clone and copy the contents to your Sublime Packages folder
 
 
 
