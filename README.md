@@ -1,7 +1,7 @@
-Sublime Python Create Package (New)
+Sublime Python Create Package
 ========================
 
-Plugin to Sublime Text 2.
+Plugin to Sublime Text 2 and 3.
 Add a context menu to Side Bar create a Python module.
 
 
